@@ -1,0 +1,52 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "instructor":{
+        "hours":"",
+        "name":"John Smith",
+        "link":"",
+        "room":"",
+        "email":""
+    },
+    "undergrad_tas":[
+        {
+            "name":"j",
+            "email":"j@j.com"
+        }
+    ],
+    "grad_tas":[
+    ],
+    "officeHours":[
+        {
+            "time":"10_00am",
+            "day":"THURSDAY",
+            "name":"j"
+        },
+        {
+            "time":"10_30am",
+            "day":"TUESDAY",
+            "name":"j"
+        },
+        {
+            "time":"11_00am",
+            "day":"WEDNESDAY",
+            "name":"j"
+        },
+        {
+            "time":"12_00pm",
+            "day":"TUESDAY",
+            "name":"j"
+        },
+        {
+            "time":"12_30pm",
+            "day":"MONDAY",
+            "name":"j"
+        },
+        {
+            "time":"12_30pm",
+            "day":"WEDNESDAY",
+            "name":"j"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+
+{
+    "prerequisites":"",
+    "specialAssistance":"",
+    "outcomes":"",
+    "topics":"",
+    "academicDishonesty":"",
+    "description":"Development of the basic concepts and techniques from Computer Science I and II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of thousands of lines of source code. Use of programming environments and tools to aid in the software development process.",
+    "gradingNote":"",
+    "gradedComponents":"",
+    "textbooks":"[\n        {\n            \"title\": \"Head First Object Oriented Analysis and Design\",\n            \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678\",\n            \"photo\": \"./images/HeadFirstOOAAD.jpg\",\n            \"authors\": [\n                \"Brett McLaughlin\", \"Gary Pollice\", \"David West\"\n            ],\n            \"publisher\": \"O'Reilly Media, Inc.\",\n            \"year\": \"2006\"\n        },\n        {\n            \"title\": \"Head First Design Patterns\",\n            \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124\",\n            \"photo\": \"./images/HeadFirstDesignPatterns.gif\",\n            \"authors\": [\n                \"Eric T Freeman\", \"Elisabeth Robson\", \"Bert Bates\", \"Kathy Sierra\"\n            ],\n            \"publisher\": \"O'Reilly Media, Inc.\",\n            \"year\": \"2004\"\n        }\n    ]"
+}

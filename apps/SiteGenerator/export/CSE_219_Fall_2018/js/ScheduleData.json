@@ -1,0 +1,31 @@
+
+{
+    "startingMondayMonth":"10",
+    "startingMondayDay":"29",
+    "endingFridayMonth":"12",
+    "endingFridayDay":"28",
+    "holidays":[
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+        {
+            "month":"12",
+            "day":"10",
+            "title":"poo",
+            "topic":"poo",
+            "link":"opo"
+        }
+    ],
+    "hws":[
+        {
+            "month":"12",
+            "day":"10",
+            "title":"hw1",
+            "topic":"bad stuff",
+            "link":"no"
+        }
+    ]
+}

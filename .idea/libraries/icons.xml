@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/OfficeHours/images/icons/AddItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/OfficeHours/images/icons/RemoveItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/OfficeHours/images/icons/MoveDown.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/OfficeHours/images/icons/EditItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/OfficeHours/images/icons/MoveUp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

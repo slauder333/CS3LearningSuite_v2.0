@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SiteGenerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/dist/SiteGenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

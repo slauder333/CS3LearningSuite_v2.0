@@ -1,0 +1,28 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "undergrad_tas":[
+        {
+            "name":"jamal",
+            "email":"jamal@penis.com"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"9:30am",
+            "day":"MONDAY",
+            "name":"jamal"
+        },
+        {
+            "time":"10:30am",
+            "day":"WEDNESDAY",
+            "name":"jamal"
+        },
+        {
+            "time":"12:00pm",
+            "day":"WEDNESDAY",
+            "name":"jamal"
+        }
+    ]
+}

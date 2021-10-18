@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="icons1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/images/icons/EditItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/images/icons/MoveDown.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/images/icons/RemoveItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/images/icons/AddItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/SiteGenerator/images/icons/MoveUp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
